@@ -1,7 +1,6 @@
 # prathap-s_project1
 Data  Portfolio
 
-
 ### 1. Read Data
 Retrieve all information from the "car_dekho" table.
 ### 2. Total Cars Count
