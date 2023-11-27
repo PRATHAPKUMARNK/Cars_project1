@@ -1,7 +1,8 @@
 # prathap-s_project1
 ### Source:
 [Data Used](Data/Used_Car_data.txt)
-
+### Code:
+[MySQL Code](CODE/Car_project.sql)
 ### 1. Read Data
 Retrieve all information from the "car_dekho" table.
 ### 2. Total Cars Count
