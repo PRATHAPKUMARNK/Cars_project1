@@ -1,5 +1,6 @@
 # prathap-s_project1
-Data  Portfolio (source: https://drive.google.com/file/d/1MPKiAUKdr1riZ5N_P_qyapXCcb5Jhih_/view?usp=sharing )
+### Source:
+[Data Used](Data/Used_Car_data.txt)
 
 ### 1. Read Data
 Retrieve all information from the "car_dekho" table.
